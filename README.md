@@ -28,6 +28,9 @@ MBAをクリーンインストールしてから、開発環境を構築する�
 
 - font
 
+[powerlineとSourceCodeProで簡単につくれるキレイな開発環境](http://qiita.com/ta9to/items/4a8026fff7e177736060)を実現するために、
+fontをインストールする
+
 ```
 $ git clone https://github.com/Lokaltog/powerline-fonts.git
 ```
